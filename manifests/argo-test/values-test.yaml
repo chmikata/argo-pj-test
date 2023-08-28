@@ -1,5 +1,6 @@
 controller:
   config:
-    entries: |
-      abc: test
-      xyz: hoge
+    name: configmap-test
+    entries:
+      - abc: test
+        xyz: hoge
