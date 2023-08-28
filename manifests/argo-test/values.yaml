@@ -1,0 +1,5 @@
+controller:
+  config:
+    entries:
+      abc: test
+      xyz: hoge
