@@ -1,4 +1,5 @@
 controller:
+  customConfigMap: "test"
   config:
     entries:
       abc: test
