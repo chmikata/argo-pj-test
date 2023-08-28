@@ -1,5 +1,5 @@
 controller:
   config:
-    entries:
+    entries: |
       abc: test
       xyz: hoge
