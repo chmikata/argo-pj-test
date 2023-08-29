@@ -1,6 +1,3 @@
 controller:
   config:
     name: configmap-test
-    entries:
-      - abc: test
-        xyz: hoge
